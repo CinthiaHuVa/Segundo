@@ -1,0 +1,11 @@
+                             Explicación de los programas multihilo
+
+El primer programa es sobre un hilo así que no tarda mucho en ejecutarse el programa ya que sólo realiza una tarea
+El segundo programa es multihilo así que tarda en ejecutarse un poco más que el anterior porque realiza varias tareas al mismo tiempo
+El tercer programa trata de los semáforos, los cuales permiten acceder a un recurso del programa para liberarlo después, el programa realiza una secuenia de procesos que hace que sea mas largo
+El cuarto programa es sobre los bloqueos (RLock) los cuales bloquean el recurso hasta que es liberado para después usarlo en otro hilo, el programa tarda más que el anterios al ejecitar los procesos de los hilos
+Por último el quinto programa es sobre las condiciones que en este caso es similar a los anteriores, pero permite notificar cuando el recurso es liberado, es el programa que mas tarda en ejecutarse ya que va notificando cada procesos que realiza.
+
+
+
+Cinthia Marleny Huerta Valdivia
